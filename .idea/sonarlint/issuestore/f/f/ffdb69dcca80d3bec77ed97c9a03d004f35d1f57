@@ -1,0 +1,13 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«¾ÀÑùÿÿÿÿ8÷ãØ‚¶.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ãØ‡8÷ãØ‚¶.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ŸäôÆ8¡¿ß«µ.
+e
+java:S2095."HUse try-with-resources or close this "FileWriter" in a "finally" clause.(´ˆâë8÷ãØ‚¶.
+c	java:S899-"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8÷ãØ‚¶.
+:
+java:S2119""Save and re-use this "Random".(¼İÅf8÷ãØ‚¶.
+0
+java:S1220""Move this file to a named package.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.( ¡¤ùÿÿÿÿ8÷ãØ‚¶.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éşúñıÿÿÿÿ8ÿšÃ¶.
